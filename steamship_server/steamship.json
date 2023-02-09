@@ -1,0 +1,35 @@
+{
+  "type": "package",
+  "handle": "test-docbot",
+  "version": "0.0.4-rc.0",
+  "description": null,
+  "author": "John McDonnell",
+  "entrypoint": "Unused",
+  "public": false,
+  "build_config": {
+    "ignore": [
+      "tests",
+      "examples"
+    ]
+  },
+  "configTemplate": {},
+  "steamshipRegistry": {
+    "tagline": "",
+    "tagline2": null,
+    "usefulFor": null,
+    "videoURL": null,
+    "githubURL": null,
+    "demoURL": null,
+    "jupyterURL": null,
+    "authorGithub": "johnmcdonnell",
+    "authorName": "John McDonnell",
+    "authorEmail": "john.v.mcdonnell@gmail.com",
+    "authorTwitter": null,
+    "authorURL": null,
+    "tags": [
+      "LangChain",
+      "GPT-3",
+      "Question Answering"
+    ]
+  }
+}
