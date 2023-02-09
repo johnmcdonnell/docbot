@@ -1,0 +1,4 @@
+*.zip
+*.pyc
+secrets.toml
+.ipynb_checkpoints
