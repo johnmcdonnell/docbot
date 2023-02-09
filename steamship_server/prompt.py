@@ -12,9 +12,6 @@ The conversation between the humand and DocBot so far looks like this:
 {history}
 Human: {human_input}
 
-Resources that may be relevant to the human's question:
-{hits}
-
 Docbot:"""
 
-CHATBOT_PROMPT = PromptTemplate(input_variables=["history", "human_input", "hits"], template=_TEMPLATE)
+CHATBOT_PROMPT = PromptTemplate(input_variables=["history", "human_input"], template=_TEMPLATE)

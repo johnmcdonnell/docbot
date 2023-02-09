@@ -1,7 +1,7 @@
 {
   "type": "package",
   "handle": "test-docbot",
-  "version": "0.0.4-rc.0",
+  "version": "0.0.4-rc.5",
   "description": null,
   "author": "John McDonnell",
   "entrypoint": "Unused",
